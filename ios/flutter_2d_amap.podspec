@@ -20,6 +20,8 @@ A new Flutter plugin.
   s.dependency 'AMapLocation'
   s.static_framework = true
 
+  # add by clk
+
   s.ios.deployment_target = '8.0'
 end
 
